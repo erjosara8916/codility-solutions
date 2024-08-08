@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "WallabyJs.quokka-vscode", 
+    "WallabyJs.wallaby-vscode",
+    "eamodio.gitlens"
+  ]
+}

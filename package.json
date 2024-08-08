@@ -1,0 +1,13 @@
+{
+  "name": "codility_solutions_js",
+  "version": "0.0.1",
+  "description": "Code resolutions using Node JS for challenges in https://app.codility.com/",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }  
+}
